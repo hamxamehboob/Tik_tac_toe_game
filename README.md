@@ -1,5 +1,5 @@
 # Tik_tac_toe_game
-Below are the ScreenShots that i implemented.
+Below are the ScreenShots of my APP
 
 
 <img src="https://user-images.githubusercontent.com/97390895/160832602-40b7cef8-05ff-45de-9d37-03517ff8d11b.jpg" width="200">
